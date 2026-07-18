@@ -22,7 +22,15 @@
       "Bash(git add *)",
       "Bash(git commit -q -m 'Add real gallery photos/videos, MAXI-pink theme, real social links *)",
       "Bash(git push *)",
-      "Bash(git commit -q -m 'Set brand pink to exact MAXI hex #ed2b67 *)"
+      "Bash(git commit -q -m 'Set brand pink to exact MAXI hex #ed2b67 *)",
+      "Bash(node fetch-events.mjs)",
+      "Bash(node fetch-two.mjs)",
+      "Bash(cp \"/c/Users/vaasa/Downloads/tug.png\" tug-of-war.png)",
+      "Bash(cp \"/c/Users/vaasa/Downloads/dodgeball.png\" dodgeball.png)",
+      "Bash(cp \"/c/Users/vaasa/Downloads/treasurehunt.png\" treasure-hunt.png)",
+      "Bash(cp \"/c/Users/vaasa/Downloads/creative_branding.webp\" brand-campaign.webp)",
+      "Bash(cp \"/c/Users/vaasa/Downloads/street_play.webp\" street-play.webp)",
+      "Bash(git commit -q -m 'Use provided event images \\(games\\) in place of SVG placeholders *)"
     ]
   }
 }
