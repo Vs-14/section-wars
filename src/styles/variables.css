@@ -2,8 +2,8 @@
    and --maxi-pink-dark below and the whole site follows. */
 :root {
   /* MAXI brand layer */
-  --maxi-pink: #e6007e;
-  --maxi-pink-dark: #a80059;
+  --maxi-pink: #ed2b67;
+  --maxi-pink-dark: #b81c50;
   /* Legacy names kept as aliases so existing rules pick up the pink brand. */
   --maxi-maroon: var(--maxi-pink);
   --maxi-maroon-dark: var(--maxi-pink-dark);

@@ -21,7 +21,8 @@
       "Bash(cd \"C:\\\\Users\\\\vaasa\\\\OneDrive\\\\Desktop\\\\maxi\\\\section-wars/public/images/gallery\" && rm -f placeholder-0*.svg && ls)",
       "Bash(git add *)",
       "Bash(git commit -q -m 'Add real gallery photos/videos, MAXI-pink theme, real social links *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git commit -q -m 'Set brand pink to exact MAXI hex #ed2b67 *)"
     ]
   }
 }
