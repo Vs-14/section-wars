@@ -1,0 +1,22 @@
+@media (max-width: 1024px) {
+  :root {
+    --space-2xl: 3.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --space-xl: 2.25rem;
+    --space-2xl: 2.75rem;
+  }
+
+  .section {
+    padding: var(--space-xl) 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 var(--space-sm);
+  }
+}

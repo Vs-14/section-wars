@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Thali Tantra emblem">
+  <circle cx="100" cy="90" r="78" fill="#5b2a86"/>
+  <circle cx="100" cy="90" r="78" fill="none" stroke="#f2c14e" stroke-width="6"/>
+  <circle cx="100" cy="90" r="62" fill="none" stroke="#f2c14e" stroke-width="2" stroke-dasharray="4 6" opacity="0.7"/>
+  <!-- thali icon -->
+  <circle cx="100" cy="94" r="34" fill="#f2c14e"/>
+  <circle cx="100" cy="94" r="10" fill="#5b2a86"/>
+  <circle cx="80" cy="80" r="7" fill="#5b2a86"/>
+  <circle cx="120" cy="80" r="7" fill="#5b2a86"/>
+  <circle cx="80" cy="108" r="7" fill="#5b2a86"/>
+  <circle cx="120" cy="108" r="7" fill="#5b2a86"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#f2c14e">HRM-C</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Creative branding challenge placeholder image">
+  <rect width="400" height="260" fill="#efe3c8"/>
+  <path d="M140 120 h60 l40 -25 v90 l-40 -25 h-60 z" fill="#d4a537"/>
+  <path d="M120 120 h20 v40 h-20 z" fill="#7a1220"/>
+  <path d="M245 110 q20 -6 20 10 q0 16 -20 10" fill="none" stroke="#7a1220" stroke-width="4"/>
+  <text x="200" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#7a1220">Creative Branding Challenge</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8a7d6c">placeholder image</text>
+</svg>

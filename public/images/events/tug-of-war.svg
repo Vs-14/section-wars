@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Tug of war placeholder image">
+  <rect width="400" height="260" fill="#efe3c8"/>
+  <line x1="40" y1="130" x2="360" y2="130" stroke="#8a4a1f" stroke-width="10" stroke-dasharray="14 10"/>
+  <polygon points="40,110 40,150 10,130" fill="#c1272d"/>
+  <polygon points="360,110 360,150 390,130" fill="#1d3f6e"/>
+  <text x="200" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="700" fill="#7a1220">Tug of War</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8a7d6c">placeholder image</text>
+</svg>

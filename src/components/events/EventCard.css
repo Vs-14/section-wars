@@ -1,0 +1,25 @@
+.event-card {
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.event-card__image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.event-card__body {
+  padding: var(--space-md);
+}
+
+.event-card__body h3 {
+  margin-top: var(--space-xs);
+}
+
+.event-card__note {
+  font-size: 0.8rem;
+  margin: 0;
+}

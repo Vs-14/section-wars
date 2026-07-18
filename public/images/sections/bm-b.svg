@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Maggi Morcha emblem">
+  <circle cx="100" cy="90" r="78" fill="#c1272d"/>
+  <circle cx="100" cy="90" r="78" fill="none" stroke="#ffd23f" stroke-width="6"/>
+  <circle cx="100" cy="90" r="62" fill="none" stroke="#ffd23f" stroke-width="2" stroke-dasharray="4 6" opacity="0.7"/>
+  <!-- noodle swirl icon -->
+  <path d="M62 100 q10 -22 19 0 q9 22 19 0 q9 -22 19 0 q9 22 19 0" fill="none" stroke="#ffd23f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M65 112 q10 -22 19 0 q9 22 19 0 q9 -22 19 0 q9 22 19 0" fill="none" stroke="#f2ead9" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#c1272d">BM-B</text>
+</svg>

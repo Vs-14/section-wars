@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"C:\\\\Users\\\\vaasa\\\\OneDrive\\\\Desktop\\\\maxi\" && find . -maxdepth 3 -type d 2>&1; echo \"---files at maxi root---\"; find . -maxdepth 1 -type f 2>&1)",
+      "Bash(identify src/assets/hero.png)",
+      "Bash(rm -f src/App.css src/index.css src/assets/react.svg src/assets/vite.svg src/assets/hero.png)",
+      "Bash(rmdir src/assets)",
+      "Bash(node -e ' *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\vaasa\\\\OneDrive\\\\Desktop\\\\maxi\\\\section-wars\\\\.claude\")"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+.page-header {
+  background: var(--maxi-maroon);
+  color: var(--text-inverse);
+  padding: var(--space-xl) 0;
+  text-align: center;
+}
+
+.page-header h1 {
+  color: var(--text-inverse);
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin: var(--space-xs) 0;
+}
+
+.page-header__subtitle {
+  max-width: var(--width-narrow);
+  margin: 0 auto;
+  opacity: 0.85;
+}

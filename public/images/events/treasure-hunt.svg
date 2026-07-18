@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Campus treasure hunt placeholder image">
+  <rect width="400" height="260" fill="#efe3c8"/>
+  <path d="M120 100 l60 -20 60 20 60 -20 v90 l-60 20 -60 -20 -60 20 z" fill="none" stroke="#1f6b3a" stroke-width="4"/>
+  <path d="M140 175 q60 -70 120 0" stroke="#c1272d" stroke-width="4" fill="none" stroke-dasharray="6 6"/>
+  <text x="260" y="150" font-family="Georgia, serif" font-size="28" fill="#c1272d">✕</text>
+  <text x="200" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="24" font-weight="700" fill="#7a1220">Campus Treasure Hunt</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8a7d6c">placeholder image</text>
+</svg>

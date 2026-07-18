@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" role="img" aria-label="Rasoi Rajneeti campaign poster artwork">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2ead9"/>
+      <stop offset="1" stop-color="#d8bd7e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <!-- bunting flags in section colours -->
+  <g opacity="0.95">
+    <polygon points="60,0 160,0 110,140" fill="#8a4a1f"/>
+    <polygon points="190,0 290,0 240,140" fill="#c1272d"/>
+    <polygon points="320,0 420,0 370,140" fill="#1f6b3a"/>
+    <polygon points="450,0 550,0 500,140" fill="#1d3f6e"/>
+    <polygon points="1050,0 1150,0 1100,140" fill="#d1591a"/>
+    <polygon points="1180,0 1280,0 1230,140" fill="#7a3b1e"/>
+    <polygon points="1310,0 1410,0 1360,140" fill="#5b2a86"/>
+  </g>
+
+  <!-- large rosette motif, right side -->
+  <g transform="translate(1280,520)" opacity="0.5">
+    <circle r="220" fill="#7a1220" opacity="0.10"/>
+    <circle r="170" fill="none" stroke="#7a1220" stroke-width="8" stroke-dasharray="14 14" opacity="0.35"/>
+    <circle r="120" fill="none" stroke="#d4a537" stroke-width="4" opacity="0.4"/>
+  </g>
+
+  <!-- ballot-box silhouette, left side, low opacity texture -->
+  <g transform="translate(160,620)" opacity="0.18">
+    <rect x="-90" y="-40" width="180" height="120" rx="6" fill="#7a1220"/>
+    <rect x="-40" y="-70" width="80" height="16" fill="#7a1220"/>
+  </g>
+
+  <text x="1580" y="880" text-anchor="end" font-family="Arial, sans-serif" font-size="20" fill="#8a7d6c" opacity="0.7">placeholder artwork — replace with official key visual</text>
+</svg>

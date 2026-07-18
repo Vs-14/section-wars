@@ -1,0 +1,35 @@
+.edition-card {
+  background: var(--bg-surface);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+}
+
+.edition-card__poster {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.edition-card__body {
+  padding: var(--space-md);
+}
+
+.edition-card__theme {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.edition-card__meta {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.edition-card__source {
+  color: var(--maxi-maroon);
+  font-weight: 700;
+  text-decoration: underline;
+}

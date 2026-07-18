@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" role="img" aria-label="Mock marketing pitch placeholder image">
+  <rect width="400" height="260" fill="#efe3c8"/>
+  <rect x="150" y="150" width="100" height="14" fill="#1d3f6e"/>
+  <rect x="170" y="120" width="60" height="30" fill="#1d3f6e"/>
+  <rect x="120" y="90" width="30" height="60" fill="#d4a537"/>
+  <rect x="250" y="70" width="30" height="80" fill="#c1272d"/>
+  <path d="M120 90 l60 -22 100 22" fill="none" stroke="#7a1220" stroke-width="4"/>
+  <text x="200" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#7a1220">Mock Marketing Pitch</text>
+  <text x="200" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#8a7d6c">placeholder image</text>
+</svg>

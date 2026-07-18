@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Samosa Swaraj emblem">
+  <circle cx="100" cy="90" r="78" fill="#d1591a"/>
+  <circle cx="100" cy="90" r="78" fill="none" stroke="#0f2e4c" stroke-width="6"/>
+  <circle cx="100" cy="90" r="62" fill="none" stroke="#0f2e4c" stroke-width="2" stroke-dasharray="4 6" opacity="0.7"/>
+  <!-- samosa triangle icon -->
+  <path d="M70 112 L100 58 L130 112 Z" fill="#0f2e4c"/>
+  <path d="M78 108 L100 70 L122 108 Z" fill="none" stroke="#f7e2c6" stroke-width="2" opacity="0.8"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#0f2e4c">HRM-A</text>
+</svg>
