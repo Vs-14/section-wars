@@ -256,7 +256,8 @@ button {
   padding: var(--space-md);
 }
 
-.lightbox img {
+.lightbox img,
+.lightbox video {
   width: 100%;
   max-height: 60vh;
   object-fit: contain;

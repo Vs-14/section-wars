@@ -8,7 +8,20 @@
       "Bash(node -e ' *)",
       "Bash(npm install *)",
       "Bash(npm run *)",
-      "Bash(mkdir -p \"C:\\\\Users\\\\vaasa\\\\OneDrive\\\\Desktop\\\\maxi\\\\section-wars\\\\.claude\")"
+      "Bash(mkdir -p \"C:\\\\Users\\\\vaasa\\\\OneDrive\\\\Desktop\\\\maxi\\\\section-wars\\\\.claude\")",
+      "Bash(git remote *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/Vs-14/section-wars)",
+      "Bash(git credential *)",
+      "Bash(ls -la \"/c/Users/vaasa/Downloads/\" 2>&1 | grep -iE \"whatsapp|\\\\.mp4|\\\\.jpg|\\\\.jpeg|\\\\.png\" | head -40)",
+      "Bash(cp \"/c/Users/vaasa/Downloads/WhatsApp Image 2026-07-18 at 11.27.00 PM.jpeg\" \"section-wars-01.jpg\")",
+      "Bash(cp \"/c/Users/vaasa/Downloads/WhatsApp Image 2026-07-18 at 11.27.01 PM.jpeg\" \"section-wars-02.jpg\")",
+      "Bash(cp \"/c/Users/vaasa/Downloads/WhatsApp Video 2026-07-18 at 11.27.01 PM.mp4\" \"section-wars-clip-01.mp4\")",
+      "Bash(cp \"/c/Users/vaasa/Downloads/WhatsApp Video 2026-07-18 at 11.27.01 PM \\(1\\).mp4\" \"section-wars-clip-02.mp4\")",
+      "WebSearch",
+      "Bash(cd \"C:\\\\Users\\\\vaasa\\\\OneDrive\\\\Desktop\\\\maxi\\\\section-wars/public/images/gallery\" && rm -f placeholder-0*.svg && ls)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m 'Add real gallery photos/videos, MAXI-pink theme, real social links *)",
+      "Bash(git push *)"
     ]
   }
 }

@@ -14,8 +14,22 @@ function GalleryGrid({ images }) {
             type="button"
             className="gallery-thumb card-hover"
             onClick={() => setActiveIndex(index)}
+            aria-label={item.altText}
           >
-            <img src={item.thumbnail} alt={item.altText} />
+            {item.type === 'video' ? (
+              <>
+                <video
+                  className="gallery-thumb__media"
+                  src={item.thumbnail}
+                  muted
+                  playsInline
+                  preload="metadata"
+                />
+                <span className="gallery-thumb__play" aria-hidden="true">▶</span>
+              </>
+            ) : (
+              <img className="gallery-thumb__media" src={item.thumbnail} alt={item.altText} />
+            )}
           </button>
         ))}
       </div>

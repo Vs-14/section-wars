@@ -1,30 +1,33 @@
-/* Placeholder brand palette (MAXI's real brand guide/colours were not
-   available while building this PoC) — swap these for the real values. */
+/* MAXI-pink brand palette. If MAXI has an exact brand hex, swap --maxi-pink
+   and --maxi-pink-dark below and the whole site follows. */
 :root {
   /* MAXI brand layer */
-  --maxi-maroon: #7a1220;
-  --maxi-maroon-dark: #4d0b14;
-  --maxi-gold: #d4a537;
-  --maxi-cream: #f7f2e9;
-  --maxi-ink: #1a1512;
+  --maxi-pink: #e6007e;
+  --maxi-pink-dark: #a80059;
+  /* Legacy names kept as aliases so existing rules pick up the pink brand. */
+  --maxi-maroon: var(--maxi-pink);
+  --maxi-maroon-dark: var(--maxi-pink-dark);
+  --maxi-gold: #f2b705;
+  --maxi-cream: #fff5fa;
+  --maxi-ink: #1a1015;
 
   /* Section Wars / campaign theme layer */
-  --sw-poster-red: #c1272d;
-  --sw-poster-yellow: #f2c14e;
-  --sw-paper: #f2ead9;
-  --sw-ink-black: #17130f;
+  --sw-poster-red: var(--maxi-pink);
+  --sw-poster-yellow: #f2b705;
+  --sw-paper: #fdf1f7;
+  --sw-ink-black: #171114;
 
   /* Backgrounds */
   --bg-page: var(--sw-paper);
   --bg-surface: #ffffff;
-  --bg-surface-alt: #efe3c8;
+  --bg-surface-alt: #fbe0ee;
   --bg-dark: var(--maxi-ink);
 
   /* Text */
   --text-primary: var(--sw-ink-black);
-  --text-secondary: #55483a;
-  --text-inverse: #f7f2e9;
-  --text-muted: #8a7d6c;
+  --text-secondary: #5a4a54;
+  --text-inverse: #fff5fa;
+  --text-muted: #98808d;
 
   /* Fonts (system-stack placeholder; swap once real MAXI fonts are supplied) */
   --font-display: 'Georgia', 'Times New Roman', serif;

@@ -21,7 +21,11 @@ function ImageLightbox({ images, activeIndex, onClose, onNavigate }) {
         <button type="button" className="modal-card__close" onClick={onClose} aria-label="Close">
           ×
         </button>
-        <img src={item.image} alt={item.altText} />
+        {item.type === 'video' ? (
+          <video key={item.id} src={item.image} controls autoPlay playsInline />
+        ) : (
+          <img src={item.image} alt={item.altText} />
+        )}
         <p className="lightbox__caption">{item.caption}</p>
         <div className="lightbox__nav">
           <button type="button" onClick={() => onNavigate((activeIndex - 1 + images.length) % images.length)}>

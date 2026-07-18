@@ -5,11 +5,11 @@ import { gallery } from '../data/gallery.js'
 function GalleryPage() {
   return (
     <>
-      <PageHeader eyebrow="Gallery" title="Event Photography" subtitle="Moments from Section Wars." />
+      <PageHeader eyebrow="Gallery" title="Moments from Section Wars" subtitle="Photos and clips from the celebrations." />
       <section className="section">
         <div className="container">
           <p className="text-muted" style={{ marginBottom: 'var(--space-lg)' }}>
-            Placeholder images — real event photography will replace these once MAXI shares it.
+            Tap any photo or clip to view it full-size.
           </p>
           <GalleryGrid images={gallery} />
         </div>

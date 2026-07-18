@@ -2,9 +2,10 @@ import SocialLinks from '../common/SocialLinks.jsx'
 import './Footer.css'
 
 const socialLinks = [
-  { label: 'Instagram', href: '#' },
-  { label: 'LinkedIn', href: '#' },
-  { label: 'Facebook', href: '#' },
+  { label: 'Instagram', href: 'https://www.instagram.com/maxi.xlri/' },
+  { label: 'LinkedIn', href: 'https://in.linkedin.com/company/marketing-association-of-xlri-maxi' },
+  { label: 'Facebook', href: 'https://www.facebook.com/maxi.at.xlri/' },
+  { label: 'Website', href: 'https://maxi-xlri.in/' },
 ]
 
 function Footer() {
@@ -23,10 +24,6 @@ function Footer() {
         <div className="footer__links">
           <SocialLinks links={socialLinks} />
         </div>
-
-        <p className="footer__note">
-          Placeholder social links — this is a proof-of-concept site, not the live MAXI page.
-        </p>
 
         <p className="footer__copyright">© {new Date().getFullYear()} MAXI, XLRI Jamshedpur</p>
       </div>
